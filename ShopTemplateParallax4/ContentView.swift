@@ -194,7 +194,7 @@ struct ContentView: View {
             HStack { //Share preview button
                 //BUTTON CTA
                 HStack{
-                    Text("Share a preview")
+                    Text("Share this preview")
                         .font(.system(size: 14, weight: .bold))
                         .lineSpacing(20)
                         .foregroundColor(Color.white)
